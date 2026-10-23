@@ -326,38 +326,6 @@ cse4104-7c-t05-ai-academic-mentor/
 - **Development Branch:** `development`
 - **Feature Branches:** `frontend`, `backend`, `ai-integration`
 
-### Commit Message Convention
-```
-Added JWT authentication
-Implemented AI chatbot integration
-Fixed mobile responsiveness
-Added recommendation module
-```
-
----
-
-## 🛡️ Security Notes
-
-- Passwords hashed with **bcryptjs**
-- JWT-based stateless authentication
-- **Helmet** for HTTP header security
-- **Rate limiting** to prevent abuse
-- CORS configured for trusted origins
-- Environment variables protected via `.env` (never committed)
-
----
-
-## 🎤 Viva Preparation Areas
-
-Students should be prepared to explain:
-- ✅ System architecture and data flow
-- ✅ Database schema and relationships
-- ✅ AI integration workflow (Gemini + Hugging Face)
-- ✅ Authentication flow (JWT)
-- ✅ REST API endpoints
-- ✅ Deployment process (Vercel + Render + MongoDB Atlas)
-- ✅ Testing strategy and bug fixes
-- ✅ Individual contributions
 
 ---
 
